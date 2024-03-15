@@ -1,3 +1,8 @@
+## CRYPTOGRAPHY - ADVANCED TECHNIQUES
+## EXERCISE 02
+
+## REGISTER NUMBER: 212221040021
+ 
  ## IMPLEMENTATION OF RSA
  # AIM :
  To write a C program to implement the RSA encryption algorithm.
