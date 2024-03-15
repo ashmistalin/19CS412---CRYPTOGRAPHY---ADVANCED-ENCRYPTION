@@ -20,6 +20,7 @@ STEP-6: The cipher text is computed as messagee *
 STEP-7: Decryption is done as cipherdmod n.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
