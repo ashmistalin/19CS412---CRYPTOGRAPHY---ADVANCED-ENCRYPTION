@@ -95,6 +95,7 @@ int main() {
 }
 ```
 ## OUTPUT:
+![WhatsApp Image 2024-03-15 at 21 53 18 (1)](https://github.com/IsaacAIML2023/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/103128410/e33b9319-18fd-40ae-9dfc-c9eed20f43a0)
 
 
 ## RESULT :
@@ -184,7 +185,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-
+![WhatsApp Image 2024-03-15 at 21 41 21 (1)](https://github.com/IsaacAIML2023/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/103128410/4aa172cc-e8fb-4d6a-97ff-4f7583693376)
 
 
 ## RESULT: 
@@ -274,6 +275,9 @@ class desi {
 
 ```
 ## OUTPUT:
+![Screenshot (520)](https://github.com/IsaacAIML2023/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/103128410/45c64c0f-db14-482d-9353-47e36e953f15)
+![Screenshot (521)](https://github.com/IsaacAIML2023/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/103128410/f8cba0bc-7ba0-4a85-9d68-e13ed1ff36a1)
+![Screenshot (522)](https://github.com/IsaacAIML2023/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/103128410/6da1c84c-48eb-4e0d-8bef-1910f9ae19aa)
 
 
 ## RESULT:
